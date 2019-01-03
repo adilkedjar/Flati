@@ -9512,6 +9512,10 @@ h3 {
     border-color: #dee2e6;
   }
 }
+body {
+  overflow-x: hidden;
+}
+
 .fond {
   background-color: #3C3C4B;
 }
@@ -9624,15 +9628,11 @@ footer > i {
 
 .copyr {
   color: #adb5bd;
-}
-
-footer {
-  overflow: hidden;
+  margin-bottom: 0%;
 }
 
 .bg-n {
   background-color: black;
-  overflow: hidden;
 }
 
 /*# sourceMappingURL=style.css.map */
