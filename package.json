@@ -1,0 +1,26 @@
+{
+  "name": "flati",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilkedjar/Flati.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilkedjar/Flati/issues"
+  },
+  "homepage": "https://github.com/adilkedjar/Flati#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "sass": "^1.15.2"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.3"
+  }
+}
